@@ -29,6 +29,7 @@ This is a simple simulation of a magical arena where two players fight until one
 
 ## Project Structure
 
+```plaintext
 magical-arena/
 ├──lib/
 | ├── hamcrest-core-1.3.jar
